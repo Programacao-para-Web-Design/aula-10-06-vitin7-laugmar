@@ -1,46 +1,16 @@
-.carlinhos{
-			background-color: #8611add6;
-		}
 
-		ul{
-			text-align: center;
-			align-items: center;
-		}
-		body{
-			background-color: #040708c9;
-		}
+#devj{
 
-
-
-		.subuxa{
-			width: 70%;
-
-
-		}
-
-
-
-		section{
-			background-color: #8611add6;
-			position: absolut;
-			text-color: #f9f6fad6;
-		}
-		#devj{
-
-			font-size: 12px;
+			font-size:: 12px;
 			text-align: center;
 			font-style: italic;
-			text-color: white;
-			
-			
-			
 			
 		}
 		#ceemti{
 
-			background: -webkit-gradient(linear, left top, right top, from(#faa3a3), to(#ff0000)) no-repeat;
-            		background: -moz-linear-gradient(left, #faa3a3, #ff0000);
-            		filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#ff0000', EndColorStr='#faa3a3');            
+			background: -webkit-gradient(linear, left top, right top, from(#bac4eb), to(#0733d6)) no-repeat;
+            		background: -moz-linear-gradient(left, #505569, #031c7a);
+            		filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#bac4eb', EndColorStr='#0733d6');            
 			justify-content: center;
 			align-items: center;
 			text-align: center;
@@ -49,35 +19,33 @@
 		}
 		main{
 			max-width: 75%;
-			justify-content: auto;
-			align-items: auto;
+			justify-content: center;
+			align-items: center;
 			text-align: center;
 			pading: 2px;
-			position: absolut;
-			
 						
+		}
+		body{
+			background-color: #bafab2fc;
 		}
 
 		.Aula{
 			font-size: 16px;
 			text-align: center;
 			font-weight: bold;
-			align-items: center;
-			text-align: center;
 		}
 		.materia{
 
 			font-size: 16px;
 			text-align: center;
 			font-weight: bold;
-			text-color: white;
 			
 		}
 
 		header{
-            		background: -webkit-gradient(linear, left top, right top, from(#faa3a3), to(#ff0000)) no-repeat;
-            		background: -moz-linear-gradient(left, #ff0000, #faa3a3);
-            		filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#ff0000', EndColorStr='#faa3a3');            
+            		background: -webkit-gradient(linear, left top, right top, from(#bac4eb), to(#0733d6)) no-repeat;
+            		background: -moz-linear-gradient(left, #505569, #031c7a);
+            		filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#bac4eb', EndColorStr='#0733d6');            
 			justify-content: center;
 			align-items: center;
 			text-align: center;
@@ -86,70 +54,64 @@
 
 		#Progwebparwebdesign{
 
-			background-color: #8611add6;
+			background-color: #ffc2ea;
 			justify-content: center;
 			align-items: center;
 			text-align: center;
 			pading: 2px;
 			margin: 0 auto;
 			max-width: 95%;
-			text-color: white;
 			
 			
 		}
 		#Desenvdegames{
 
-			background-color: #8611add6;  
-			justify-content: center;
-			align-items: center;
-			text-align: center;
-			pading: 2px;
-			margin: 0 auto;
-			width: 50%;
-			text-color: white;
-			
-			
-			
-		}
-		#Analprogdesis{
-			
-			background-color: #8611add6;
+			background-color: yellow;  
 			justify-content: center;
 			align-items: center;
 			text-align: center;
 			pading: 2px;
 			margin: 0 auto;
 			max-width: 95%;
-			text-color: white;
+			
+		}
+		#Analprogdesis{
+			
+			background-color: red;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+			margin: 0 auto;
+			max-width: 95%;
 			
 		}
 
 		#Nasa{
 	    
 			display: flex;
-			background-color: #0667ebd6;
+			background-color: #f5f4ce;
 			box-shadow: 7px 7px 9px 0px black;
 			font-weight: bold;
 			font-size: 20px;
 			text-align: center; 
 			justify-content: center;
-			pading: 15px;
-			
+			pading: 2px;
 		        
 		}
 
 		.nome{
 			font-weight: bold;
 			font-size: 20px;
-			text-align: center;
-			align-items: center;
+			text-align: center; 
 		}
 
 		#pezin{
 
-		    	background-color: #06c6eb;
+		    	background-color: #a7f1f5fc;
 			width: 100%;
-       			text-color: #f9f6fad6;
+        		color: black;
+			position: absolut;
         
 		}
 			@media screen and (max-width: 1200px){
